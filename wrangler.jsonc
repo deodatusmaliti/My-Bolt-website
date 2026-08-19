@@ -1,0 +1,7 @@
+{
+  "name": "my-bolt-website",
+  "compatibility_date": "2026-08-16",
+  "assets": {
+    "not_found_handling": "single-page-application"
+  }
+}
